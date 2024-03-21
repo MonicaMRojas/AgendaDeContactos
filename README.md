@@ -17,7 +17,7 @@ Pasos para ejecutar la aplicación
 
 1. Clone el repositorio:
 
-git clone https://github.com/tu_usuario/nombre_repositorio.git
+git clone https://github.com/MonicaMRojas/AgendaDeContactos.git
 
 2. Importe el proyecto en su IDE favorito.
 
