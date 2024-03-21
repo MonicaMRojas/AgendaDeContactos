@@ -1,0 +1,7 @@
+com.agenda
+com.agenda.controllers
+com.agenda.dto
+com.agenda.model
+com.agenda.repository
+com.agenda.services
+com.agenda.services.impl
